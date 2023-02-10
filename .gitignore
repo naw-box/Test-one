@@ -1,0 +1,8 @@
+# 忽略indes.html
+indes.html
+
+# 忽略test
+test/
+
+# 忽略ceshi.txt
+ceshi.txt
